@@ -48,7 +48,7 @@ The GPUWBPP script calls an external executable (**AstroPipeline.exe** on Window
 **Windows (NVIDIA GPU required for speed optimizations):**
 
 ```
-https://drive.google.com/file/d/<FILE_ID>/view?usp=sharing
+[https://drive.google.com/file/d/<FILE_ID>/view?usp=sharing](https://drive.google.com/file/d/13WsyvtQUB95TwFeFFRZhxwdENl_HUIY9/view?usp=sharing)
 ```
 
 An executable for macOS and Linux versions is not available at this time.
